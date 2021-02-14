@@ -29,6 +29,19 @@
 	ol, ul {
 		list-style: none;
 	}
+.table-image{
+  max-width: 300px;
+  height: auto;
+}
+tabbe{
+
+  margin-left: auto; 
+  margin-right: auto;
+  width: : 600px;
+  max-width: : 100%;
+  height: auto;
+}
+
 
 	blockquote, q {
 		quotes: none;
