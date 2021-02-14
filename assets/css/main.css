@@ -102,6 +102,18 @@
 		font-weight: 300;
 		line-height: 1.65;
 	}
+.table-image{
+  max-width: 300px;
+  height: auto;
+}
+.tabbe{
+
+  margin-left: auto; 
+  margin-right: auto;
+  width: : 600px;
+  max-width: : 100%;
+  height: auto;
+}
 
 		@media screen and (max-width: 1680px) {
 
